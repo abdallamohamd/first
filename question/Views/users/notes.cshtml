@@ -1,0 +1,32 @@
+﻿@model IEnumerable<question.Models.application>
+
+@{
+    ViewData["Title"] = "notes";
+}
+
+<h1 class="text-center pb-2">Notifications</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>  Applicant Name          </th>
+            <th>  Job          </th>
+            <th>  Company          </th>
+            <th>  Status          </th>
+            <th>  Applying Date           </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>  @item.applicant.UserName          </td>
+            <td>  @item.job.title          </td>
+            <td>  @item.job.company          </td>
+            <td>  @item.status          </td>
+            <td>  @item.application_date          </td>
+            
+        </tr>
+}
+    </tbody>
+</table>

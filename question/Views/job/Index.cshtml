@@ -1,0 +1,40 @@
+﻿@model IEnumerable<question.Models.job>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1> All jobs</h1>
+<p>
+    <a asp-action="add" class="btn btn-secondary">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>      Job_Id         </th>
+            <th>      Job_TItle      </th>
+            <th>      Company           </th>
+            <th>      Location           </th>
+            <th>      Job_description      </th>
+            <th>      Skills Required      </th>
+            <th>      Action               </th>
+
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>    @item.id        </td>
+            <td>    @item.title        </td>
+            <td>    @item.company        </td>
+            <td>    @item.location        </td>
+            <td>    @item.description        </td>
+            <td>    @item.skills_required        </td>
+            <td>
+                    <a class ="btn btn-danger" asp-controller="job" asp-action="edit" asp-route-id="@item.id">Edite</a>
+                    <a class ="btn btn-dark" asp-controller="job" asp-action="delete" asp-route-id="@item.id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

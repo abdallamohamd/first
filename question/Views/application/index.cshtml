@@ -1,0 +1,41 @@
+﻿@model IEnumerable<question.Models.application>
+
+@{
+    ViewData["Title"] = "index";
+}
+
+<h1>All Application </h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>      Applicion Id      </th>
+            <th>      Applicant      </th>
+            <th>      Applicion Date     </th>
+            <th>      Job             </th>
+            <th>      Comapny      </th>
+            <th>      Status       </th>
+            <th>      Action       </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>  @item.id          </td>
+                <td>  @item.applicant.UserName        </td>
+                <td>  @item.application_date          </td>
+                <td>  @item.job.title          </td>
+                <td>  @item.job.company          </td>
+                <td>  @item.status           </td>
+                <td>
+                    <a class="btn btn-danger" asp-controller="application" asp-action="edite" asp-route-id="@item.id" >Edite</a>
+
+                    <a class="btn btn-dark" asp-controller="application" asp-action="remove" asp-route-id="@item.id">delete</a>
+                </td>
+
+            </tr>
+        }
+    </tbody>
+</table>

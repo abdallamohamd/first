@@ -1,0 +1,469 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\mohamed mahdy\\c#\\question\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\repository\\applicationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\repository\\applicationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\repository\\jobrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\repository\\jobrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\repository\\iapplicationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\repository\\iapplicationrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\repository\\ijobrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\repository\\ijobrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\view_model\\regester_vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\view_model\\regester_vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\models\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\models\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\models\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\models\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\views\\application\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\views\\application\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\views\\application\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\views\\application\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\views\\application\\edite.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\views\\application\\edite.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\views\\users\\notes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\views\\users\\notes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\views\\job\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\views\\job\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\views\\job\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\views\\job\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\views\\account\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\views\\account\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\views\\role\\role.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\views\\role\\role.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\view_model\\rolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\view_model\\rolevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\views\\account\\regester.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\views\\account\\regester.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|e:\\mohamed mahdy\\c#\\question\\question\\view_model\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B3DFCC-08FD-44B1-BF60-AA082640A074}|question\\question.csproj|solutionrelative:question\\view_model\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Iapplicationrepo.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\repository\\Iapplicationrepo.cs",
+              "RelativeDocumentMoniker": "question\\repository\\Iapplicationrepo.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\repository\\Iapplicationrepo.cs",
+              "RelativeToolTip": "question\\repository\\Iapplicationrepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:17:54.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "applicationrepo.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\repository\\applicationrepo.cs",
+              "RelativeDocumentMoniker": "question\\repository\\applicationrepo.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\repository\\applicationrepo.cs",
+              "RelativeToolTip": "question\\repository\\applicationrepo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:14:42.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "jobrepo.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\repository\\jobrepo.cs",
+              "RelativeDocumentMoniker": "question\\repository\\jobrepo.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\repository\\jobrepo.cs",
+              "RelativeToolTip": "question\\repository\\jobrepo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:14:41.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Program.cs",
+              "RelativeDocumentMoniker": "question\\Program.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Program.cs",
+              "RelativeToolTip": "question\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:07:50.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "applicationController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Controllers\\applicationController.cs",
+              "RelativeDocumentMoniker": "question\\Controllers\\applicationController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Controllers\\applicationController.cs",
+              "RelativeToolTip": "question\\Controllers\\applicationController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:03:15.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jobController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Controllers\\jobController.cs",
+              "RelativeDocumentMoniker": "question\\Controllers\\jobController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Controllers\\jobController.cs",
+              "RelativeToolTip": "question\\Controllers\\jobController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:43:04.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "usersController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Controllers\\usersController.cs",
+              "RelativeDocumentMoniker": "question\\Controllers\\usersController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Controllers\\usersController.cs",
+              "RelativeToolTip": "question\\Controllers\\usersController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:58:43.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ijobrepo.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\repository\\Ijobrepo.cs",
+              "RelativeDocumentMoniker": "question\\repository\\Ijobrepo.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\repository\\Ijobrepo.cs",
+              "RelativeToolTip": "question\\repository\\Ijobrepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T11:15:16.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appcontext.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Models\\appcontext.cs",
+              "RelativeDocumentMoniker": "question\\Models\\appcontext.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Models\\appcontext.cs",
+              "RelativeToolTip": "question\\Models\\appcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:13:38.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "applicant.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Models\\applicant.cs",
+              "RelativeDocumentMoniker": "question\\Models\\applicant.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Models\\applicant.cs",
+              "RelativeToolTip": "question\\Models\\applicant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:02:32.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "add.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\application\\add.cshtml",
+              "RelativeDocumentMoniker": "question\\Views\\application\\add.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\application\\add.cshtml",
+              "RelativeToolTip": "question\\Views\\application\\add.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T16:14:15.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "roleController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Controllers\\roleController.cs",
+              "RelativeDocumentMoniker": "question\\Controllers\\roleController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Controllers\\roleController.cs",
+              "RelativeToolTip": "question\\Controllers\\roleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:51:24.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "regester_vm.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\view_model\\regester_vm.cs",
+              "RelativeDocumentMoniker": "question\\view_model\\regester_vm.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\view_model\\regester_vm.cs",
+              "RelativeToolTip": "question\\view_model\\regester_vm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:34:47.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\application\\index.cshtml",
+              "RelativeDocumentMoniker": "question\\Views\\application\\index.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\application\\index.cshtml",
+              "RelativeToolTip": "question\\Views\\application\\index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwCAAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T23:02:33.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "accountController.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Controllers\\accountController.cs",
+              "RelativeDocumentMoniker": "question\\Controllers\\accountController.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Controllers\\accountController.cs",
+              "RelativeToolTip": "question\\Controllers\\accountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T15:34:02.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "question\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "question\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T11:56:29.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "edite.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\application\\edite.cshtml",
+              "RelativeDocumentMoniker": "question\\Views\\application\\edite.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\application\\edite.cshtml",
+              "RelativeToolTip": "question\\Views\\application\\edite.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T16:02:43.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "add.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\job\\add.cshtml",
+              "RelativeDocumentMoniker": "question\\Views\\job\\add.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\job\\add.cshtml",
+              "RelativeToolTip": "question\\Views\\job\\add.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAUwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T17:38:52.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "edit.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\job\\edit.cshtml",
+              "RelativeDocumentMoniker": "question\\Views\\job\\edit.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\job\\edit.cshtml",
+              "RelativeToolTip": "question\\Views\\job\\edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T14:19:54.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "notes.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\users\\notes.cshtml",
+              "RelativeDocumentMoniker": "question\\Views\\users\\notes.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\users\\notes.cshtml",
+              "RelativeToolTip": "question\\Views\\users\\notes.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T15:40:14.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "add.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\account\\add.cshtml",
+              "RelativeDocumentMoniker": "question\\Views\\account\\add.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\account\\add.cshtml",
+              "RelativeToolTip": "question\\Views\\account\\add.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwDkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T19:27:59.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "regester.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\account\\regester.cshtml",
+              "RelativeDocumentMoniker": "question\\Views\\account\\regester.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\account\\regester.cshtml",
+              "RelativeToolTip": "question\\Views\\account\\regester.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T15:44:15.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "rolevm.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\view_model\\rolevm.cs",
+              "RelativeDocumentMoniker": "question\\view_model\\rolevm.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\view_model\\rolevm.cs",
+              "RelativeToolTip": "question\\view_model\\rolevm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:17:39.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "role.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\role\\role.cshtml",
+              "RelativeDocumentMoniker": "question\\Views\\role\\role.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\role\\role.cshtml",
+              "RelativeToolTip": "question\\Views\\role\\role.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T11:21:30.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\account\\login.cshtml",
+              "RelativeDocumentMoniker": "question\\Views\\account\\login.cshtml",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\Views\\account\\login.cshtml",
+              "RelativeToolTip": "question\\Views\\account\\login.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-14T16:24:29.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "loginvm.cs",
+              "DocumentMoniker": "E:\\mohamed mahdy\\c#\\question\\question\\view_model\\loginvm.cs",
+              "RelativeDocumentMoniker": "question\\view_model\\loginvm.cs",
+              "ToolTip": "E:\\mohamed mahdy\\c#\\question\\question\\view_model\\loginvm.cs",
+              "RelativeToolTip": "question\\view_model\\loginvm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:21:21.56Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

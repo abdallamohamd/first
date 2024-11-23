@@ -1,0 +1,103 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = question
+build_property.RootNamespace = question
+build_property.ProjectDir = E:\mohamed mahdy\c#\question\question\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\mohamed mahdy\c#\question\question
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/account/add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudFxhZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/account/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudFxsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/account/regester.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudFxyZWdlc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/application/add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXBwbGljYXRpb25cYWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/application/edite.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXBwbGljYXRpb25cZWRpdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/application/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYXBwbGljYXRpb25caW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/job/add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncam9iXGFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/job/edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncam9iXGVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/job/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Ncam9iXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/role/role.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Nccm9sZVxyb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/users/jobs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNcam9icy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/users/notes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlcnNcbm90ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/mohamed mahdy/c\#/question/question/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ndjdgb5eo2

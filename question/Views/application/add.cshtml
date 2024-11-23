@@ -1,0 +1,29 @@
+﻿@model IEnumerable<question.Models.application>
+
+@{
+    ViewData["Title"] = "add";
+}
+
+<h1>add</h1>
+
+<p>
+    <a asp-action="edit" asp-controller="job" asp-route-id="">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            
+            <th>
+                id
+            </th>
+          
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>@item.id</td>
+        </tr>
+}
+    </tbody>
+</table>
