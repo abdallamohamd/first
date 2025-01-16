@@ -16,14 +16,25 @@ namespace question.Controllers
         {
             this.ijobrepo = ijobrepo;
         }
-        
-       
+
+        [AllowAnonymous]
+        public IActionResult jobs(string job)
+        {
+            List<job> jobs = ijobrepo.all();
+            if (!string.IsNullOrEmpty(job))
+            {
+                jobs = jobs.Where(x => x.title.Contains(job)).ToList();
+            }
+            return View(jobs);
+        }
 
         public IActionResult Index()
         {
             List<job> jobs = ijobrepo.all();
             return View(jobs);
         }
+
+        
         public IActionResult add()
         {
             return View();

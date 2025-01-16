@@ -18,7 +18,14 @@ namespace question.Controllers
             this.repo = repo;
             this.jobrepo = jobrepo;
         }
-        
+
+        [AllowAnonymous]
+        public IActionResult notes()
+        {
+            List<application> applications = repo.all();
+            return View(applications);
+        }
+
         public IActionResult index()
         {
             List<application> applications = repo.all(); //context.applications.Include(x =>x.applicant ).Include(x=>x.job).ToList();

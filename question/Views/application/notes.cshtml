@@ -18,15 +18,16 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>  @item.applicant.UserName          </td>
-            <td>  @item.job.title          </td>
-            <td>  @item.job.company          </td>
-            <td>  @item.status          </td>
-            <td>  @item.application_date          </td>
-            
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>  @item.applicant.UserName          </td>
+                <td>  @item.job.title          </td>
+                <td>  @item.job.company          </td>
+                <td>  @item.status          </td>
+                <td>  @item.application_date          </td>
+
+            </tr>
+        }
     </tbody>
 </table>
